@@ -1,5 +1,8 @@
 # ibm-containers-postgres
 
+This is a reference Dockerfile for running a Postgres database using IBM
+Containers.
+
 ```yaml
 # docker-compose.yml
 postgres:
